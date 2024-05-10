@@ -90,6 +90,7 @@
                     <plugin>
                         <groupId>org.springframework.boot</groupId>
                         <artifactId>spring-boot-maven-plugin</artifactId>
+                        <version>3.2.4</version>
                         <executions>
                             <execution>
                                 <!-- Spring Boot Actuator displays build-related information if a META-INF/build-info.properties file is present -->
